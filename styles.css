@@ -74,6 +74,10 @@ header {
 width: 20px;
 }
 
+.logo {
+    width: 190px !important;
+}
+
 .fondoparalax {
     display: flex;
     flex-direction: column;
@@ -96,6 +100,10 @@ width: 20px;
     height: 65px;
     max-width: 1400px;
 
+}
+
+.headercontainer img {
+    width: 190px;
 }
 
 header nav {
